@@ -34,8 +34,3 @@ This repository contains a comprehensive assignment on **K-Nearest Neighbors (KN
 - Apply machine learning techniques using Scikit-learn.
 - Use PCA for dimensionality reduction and analysis.
 - Evaluate model performance using different metrics.
-
-## ✍️ Author
-**Jaykumar Tamkhane** 
-
----
