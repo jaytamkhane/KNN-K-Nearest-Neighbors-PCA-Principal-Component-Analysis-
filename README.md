@@ -1,4 +1,5 @@
-# KNN and PCA: Concepts, Theories & Practical Implementations
+# KNN and PCA: 
+## Concepts, Theories & Practical Implementations
 
 This repository contains a comprehensive assignment on **K-Nearest Neighbors (KNN)** and **Principal Component Analysis (PCA)**. It includes theoretical explanations, coding exercises, and experiments using various configurations and datasets.
 
